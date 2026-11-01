@@ -32,3 +32,7 @@ The analysis provides insights into revenue generation, cost management and prof
 Skills Demonstrated
 
 SQL querying | Data Analysis | Data Cleaning | Excel Functions | PivotTables | Data Visualisation | Dashboard Development | Business Insight Communication
+
+Dashboard Preview
+
+![Awesome Chocolates Dashboard](awesome-chocolates-dashboard.png)
